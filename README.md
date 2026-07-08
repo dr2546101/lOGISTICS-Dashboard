@@ -186,6 +186,13 @@ All visuals interact dynamically, enabling deeper operational analysis with mini
 ## 🚀 Project Outcome
 This Power BI solution provides a complete operational visibility framework for logistics organizations. By integrating orders, hubs, drivers, and fleet data into a single analytical platform, decision-makers can proactively improve delivery efficiency, reduce operational bottlenecks, increase customer satisfaction, and optimize logistics performance across the entire network.
 ## Dashboard (Screenshot)
+https://github.com/dr2546101/lOGISTICS-Dashboard/blob/main/SwiftRoute%20Logistics%20Dashboard.png
+
+https://github.com/dr2546101/lOGISTICS-Dashboard/blob/main/Hubs%20Overview.png
+
+https://github.com/dr2546101/lOGISTICS-Dashboard/blob/main/Vehicle%20Overview.png
+
+https://github.com/dr2546101/lOGISTICS-Dashboard/blob/main/Drivers%20Overview.png
 
 
 
